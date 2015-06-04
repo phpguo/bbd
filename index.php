@@ -3,7 +3,6 @@
 define('YII_ENABLE_EXCEPTION_HANDLER',0);
 define('YII_ENABLE_ERROR_HANDLER',0);
 
-
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/framework/yii.php';
 //todo 根据环境变量切换配置文件
